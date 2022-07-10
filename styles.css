@@ -1,0 +1,29 @@
+form{
+  text-align: center;
+  margin: 10% 5% 5rem 38% ;
+}
+
+h1{
+  text-align: center;
+  margin-top: 5rem;
+  font-style: oblique;
+  color: white;
+  font-family: 'Merriweather Sans', sans-serif;
+font-family: 'PT Serif', serif;
+font-family: 'Tiro Gurmukhi', serif;
+}
+
+
+body{
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,233,1) 35%, rgba(0,212,255,1) 100%);
+}
+.formd{
+  background-color: white;
+  padding-bottom: 2rem;
+padding-top: .5rem;
+  text-align: center;
+  align-items: center;
+  background-image: url(b.jfif);
+  color: white;
+}
